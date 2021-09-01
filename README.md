@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @levinebw
-- 📫 How to reach me brian.levine@elastic.co
+- 📫 How to reach me: brian.levine@elastic.co
 
 <!---
 levinebw/levinebw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
