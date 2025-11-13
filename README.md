@@ -1,6 +1,10 @@
 # Readme.md
 
-- 👋 Hi, I’m @levinebw
+- @levinebw
+- @AppSecHQ 
+- [linkedin/levinebw](https://linkedin.com/in/levinebw)
+- 
+- 
 
 <!---
 levinebw/levinebw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
